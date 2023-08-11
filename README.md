@@ -1,7 +1,7 @@
 # JUnit Runner for CMIS
 
 
-[![Build Status](https://travis-ci.org/gsdenys/junit-server-cmis.svg?branch=master)](https://travis-ci.org/gsdenys/junit-server-cmis) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/23e85edc3bfd4323af0b671a4bb9f7b6)](https://www.codacy.com/app/gsdenys/junit-server-cmis?utm_source=github.com&utm_medium=referral&utm_content=gsdenys/junit-server-cmis&utm_campaign=Badge_Coverage) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.gsdenys/junit-server-cmis/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.gsdenys/junit-server-cmis)
+[![Build Status](https://travis-ci.org/gsdenys/junit-server-cmis.svg?branch=master)](https://travis-ci.org/gsdenys/junit-server-cmis) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0837bc17b95140e2bf04308f5c806585)](https://app.codacy.com/gh/omar-ounoughi/junit-server-cmis/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.gsdenys/junit-server-cmis/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.gsdenys/junit-server-cmis)
 
 This project was developed to help starts a [CMIS](https://docs.oasis-open.org/cmis/CMIS/v1.1/CMIS-v1.1.html) InMemory Server ([described here](https://chemistry.apache.org/java/developing/repositories/dev-repositories-inmemory.html)) in a JUnit Test Case _Class_. 
 
